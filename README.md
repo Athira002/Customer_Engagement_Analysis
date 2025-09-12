@@ -27,10 +27,49 @@ Analyzed the Brazilian E-commerce (Olist) dataset to understand customer behavio
   - Top customers table
 
 ## Key Insights
-- Electronics category drives highest revenue → prioritize promotions.
-- 20% of customers place repeat purchases within 3 months → launch loyalty campaigns.
-- Delivery delays in certain states → optimize logistics.
-- Avg items per order: 1.8 → consider bundle offers to increase cart size.
+1. Orders per Product Category
+
+Bed, Bath & Table is the most popular category with 11,115 orders, showing strong demand for household essentials.
+
+Indicates that home-related goods are a major driver of sales in the Brazilian e-commerce market.
+
+2. Cohort Analysis – Retention by Month
+
+Retention steadily grew from late 2016 to mid-2018, peaking around 2017–2018 with 7k+ retained customers per month.
+
+Suggests Olist experienced rapid customer acquisition and repeat purchases in that period.
+
+Drop after Sept 2018 (only 16 retained) likely due to data coverage ending, not business decline.
+
+3. Average Items per Order
+
+Each order contained ~1.14 items on average, meaning most customers bought a single product per transaction.
+
+Upselling/cross-selling strategies could increase cart size and overall revenue.
+
+4. Average Delivery Days by State
+
+Remote northern states (RR, AP, AM) had delivery times 25–29 days on average, far higher than the national average.
+
+São Paulo (SP) had the fastest deliveries (8.3 days), showing strong logistics infrastructure.
+
+Opportunity: Optimize logistics for remote states to improve customer satisfaction and retention.
+
+5. Top 10 Customers by Revenue
+
+The highest-spending customer generated BRL 13,440 in revenue.
+
+Top 10 customers contributed significantly, highlighting the importance of high-value repeat buyers.
+
+Indicates potential for a loyalty program or personalized offers to retain such customers.
+
+6. Orders by Order Status
+
+Over 96% of orders were delivered successfully (96,478 orders).
+
+Cancellations and unavailability were relatively small (~1,200 combined), showing operational reliability.
+
+However, ~600 “unavailable” cases suggest inventory management could still be improved.
 
 ## Files
 - `SQL/queries.sql` → All SQL queries
