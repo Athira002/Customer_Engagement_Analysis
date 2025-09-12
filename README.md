@@ -27,11 +27,11 @@ Analyzed the Brazilian E-commerce (Olist) dataset to understand customer behavio
   - Top customers table
 
 ## Key Insights
-1. Orders per Product Category
+### 1. Orders per Product Category
 
-Bed, Bath & Table is the most popular category with 11,115 orders, showing strong demand for household essentials.
+- Bed, Bath & Table is the most popular category with 11,115 orders, showing strong demand for household essentials.
 
-Indicates that home-related goods are a major driver of sales in the Brazilian e-commerce market.
+- Indicates that home-related goods are a major driver of sales in the Brazilian e-commerce market.
 
 2. Cohort Analysis – Retention by Month
 
