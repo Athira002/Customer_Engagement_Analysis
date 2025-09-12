@@ -33,43 +33,43 @@ Analyzed the Brazilian E-commerce (Olist) dataset to understand customer behavio
 
 - Indicates that home-related goods are a major driver of sales in the Brazilian e-commerce market.
 
-2. Cohort Analysis – Retention by Month
+### 2. Cohort Analysis – Retention by Month
 
-Retention steadily grew from late 2016 to mid-2018, peaking around 2017–2018 with 7k+ retained customers per month.
+- Retention steadily grew from late 2016 to mid-2018, peaking around 2017–2018 with 7k+ retained customers per month.
 
-Suggests Olist experienced rapid customer acquisition and repeat purchases in that period.
+- Suggests Olist experienced rapid customer acquisition and repeat purchases in that period.
 
-Drop after Sept 2018 (only 16 retained) likely due to data coverage ending, not business decline.
+- Drop after Sept 2018 (only 16 retained) likely due to data coverage ending, not business decline.
 
-3. Average Items per Order
+### 3. Average Items per Order
 
-Each order contained ~1.14 items on average, meaning most customers bought a single product per transaction.
+- Each order contained ~1.14 items on average, meaning most customers bought a single product per transaction.
 
-Upselling/cross-selling strategies could increase cart size and overall revenue.
+- Upselling/cross-selling strategies could increase cart size and overall revenue.
 
-4. Average Delivery Days by State
+### 4. Average Delivery Days by State
 
-Remote northern states (RR, AP, AM) had delivery times 25–29 days on average, far higher than the national average.
+- Remote northern states (RR, AP, AM) had delivery times 25–29 days on average, far higher than the national average.
 
-São Paulo (SP) had the fastest deliveries (8.3 days), showing strong logistics infrastructure.
+- São Paulo (SP) had the fastest deliveries (8.3 days), showing strong logistics infrastructure.
 
-Opportunity: Optimize logistics for remote states to improve customer satisfaction and retention.
+- Opportunity: Optimize logistics for remote states to improve customer satisfaction and retention.
 
-5. Top 10 Customers by Revenue
+### 5. Top 10 Customers by Revenue
 
-The highest-spending customer generated BRL 13,440 in revenue.
+- The highest-spending customer generated BRL 13,440 in revenue.
 
-Top 10 customers contributed significantly, highlighting the importance of high-value repeat buyers.
+- Top 10 customers contributed significantly, highlighting the importance of high-value repeat buyers.
 
-Indicates potential for a loyalty program or personalized offers to retain such customers.
+- Indicates potential for a loyalty program or personalized offers to retain such customers.
 
-6. Orders by Order Status
+### 6. Orders by Order Status
 
-Over 96% of orders were delivered successfully (96,478 orders).
+- Over 96% of orders were delivered successfully (96,478 orders).
 
-Cancellations and unavailability were relatively small (~1,200 combined), showing operational reliability.
+- Cancellations and unavailability were relatively small (~1,200 combined), showing operational reliability.
 
-However, ~600 “unavailable” cases suggest inventory management could still be improved.
+- However, ~600 “unavailable” cases suggest inventory management could still be improved.
 
 ## Files
 - `SQL/queries.sql` → All SQL queries
