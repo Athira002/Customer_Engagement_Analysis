@@ -20,11 +20,11 @@ Analyzed the Brazilian E-commerce (Olist) dataset to understand customer behavio
   - Product revenue analysis
   - Delivery and engagement metrics
 - **Visualizations** built in Power BI:
-  - Line chart for monthly orders & customers
-  - Bar chart for orders by category
-  - Cohort analysis heatmap for retention
-  - Map of delivery performance by state
-  - Top customers table
+  - Line Chart – Monthly trend of orders and customers
+  - Bar Chart – Orders segmented by product category
+  - Cohort Heatmap – Customer retention analysis over months
+  - Map Visualization – Delivery performance across Indian states
+  - Table – Top customers by orders and revenue
 
 ## Key Insights
 ### 1. Orders per Product Category
@@ -72,6 +72,6 @@ Analyzed the Brazilian E-commerce (Olist) dataset to understand customer behavio
 - However, ~600 “unavailable” cases suggest inventory management could still be improved.
 
 ## Files
-- `SQL/queries.sql` → All SQL queries
-- `Dashboards/dashboard.pbix` → Power BI dashboard file
-- `Images/` → Visual snapshots
+- `queries.sql` → All SQL queries
+- `dashboard.pbix` → Power BI dashboard file
+- `dashboard.jpg` → Visual snapshots
