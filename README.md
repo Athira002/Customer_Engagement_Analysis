@@ -74,4 +74,4 @@ Analyzed the Brazilian E-commerce (Olist) dataset to understand customer behavio
 ## Files
 - `SQL/queries.sql` → All SQL queries
 - `Dashboards/dashboard.pbix` → Power BI dashboard file
-- `Images/` → Visual snapshots (charts, cohort heatmap, etc.)
+- `Images/` → Visual snapshots
